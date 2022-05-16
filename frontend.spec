@@ -2,7 +2,7 @@
 
 
 block_cipher = None
-
+gdddg
 
 a = Analysis(['frontend.py'],
              pathex=[],
