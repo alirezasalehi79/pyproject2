@@ -124,7 +124,7 @@ button2.grid(row=3,column=3,pady=10)
 button3 = Button(window,text="Add book",width=12,bg='orange',command=add_command)
 button3.grid(row=4,column=3,pady=10)
 
-button4 = Button(window,text="Update Selected please",bg='orange',width=12,command=lambda:update_command())
+button4 = Button(window,text="Update Selected plz",bg='orange',width=12,command=lambda:update_command())
 button4.grid(row=5,column=3,pady=10)
 
 button5 = Button(window,text="Delete Selected",width=12,bg='orange',command=lambda:delete_command())
